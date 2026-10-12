@@ -278,5 +278,5 @@ Le navigateur s'ouvrira automatiquement sur **http://localhost:3000**
 
 ## 👨‍💻 Développé par
 
-**Anas Sabri** — Stagiaire ESTC 2024-2025
+**Anas Sabri** — Stagiaire ESTC 2025-2026
 Encadrant : **M. Elhoucine Dahous** — MODEP
